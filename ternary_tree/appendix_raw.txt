@@ -1,0 +1,77 @@
+--Part One
+charToInt '1'
+charToInt '2'
+charToInt '3'
+charToInt '4'
+charToInt '5'
+charToInt '6'
+charToInt '7'
+charToInt '8'
+charToInt '9'
+charToInt '0'
+
+--Supplemental
+
+leftSide = Node "MyApp.1" (Node "MyApp.1.1" Empty Empty Empty) (Node "MyApp.1.2" Empty Empty Empty) Empty
+midSide = Node "MyApp.2" Empty Empty Empty
+rightSide = Node "MyApp.3" (Node "MyApp.3.1" (Node "MyApp.3.1.1" Empty Empty Empty) Empty (Node "MyApp.3.1.3" Empty Empty Empty) ) (Node "MyApp.3.2" Empty Empty Empty) (Node "MyApp.3.3" Empty Empty Empty)
+figureOne = Node "MyApp" leftSide midSide rightSide
+
+treeOne = Node "Zamzung SolarSystem" (Node "Zamzung SolarSystem.1" Empty Empty Empty) (Node "Zamzung SolarSystem.2" Empty Empty Empty) (Node "Zamzung SolarSystem.3" Empty Empty Empty)
+treeTwo = Node "Pear kOS" (Node "Pear kOS.1" Empty (Node "Pear kOS.1.2" Empty Empty (Node "Pear kOS.1.2.3" Empty Empty Empty)) Empty) Empty (Node "Pear kOS.3" (Node "Pear kOS.3.1" Empty Empty Empty) Empty Empty)
+treeThree = Node "Suum" Empty (Node "Suum.2" (Node "Suum.2.1" Empty (Node "Suum.2.1.2" Empty Empty Empty) (Node "Suum.2.1.3" (Node "Suum.2.1.3.1" Empty Empty Empty) Empty Empty)) (Empty) (Node "Suum.2.3" Empty Empty Empty)) (Node "Suum.3" Empty (Node "Suum.3.2" (Node "Suum.3.2.1" Empty Empty (Node "Suum.3.2.1.3" Empty (Node "Suum.3.2.1.3.2" Empty Empty Empty) Empty)) Empty (Node "Suum.3.2.3" Empty Empty Empty)) Empty)
+
+--Part Two
+insertNode treeOne "Zamzung SolarSystem.3"
+insertNode treeOne "Zamzung SolarSystem.3.1.2"
+insertNode treeOne "Zamzung SolarSystem.3.1"
+insertNode treeTwo "Pear kOS.1"
+insertNode treeTwo "Pear kOS.2"
+insertNode treeThree "Suum.3.2.1.3.2"
+insertNode treeThree "Suum.3.2.1.3.2.3"
+insertNode treeThree "Suum.3.2.1.3.1.1"
+
+
+--Part Three
+totalNodes treeOne
+totalNodes treeTwo
+totalNodes treeThree
+
+--Part Four
+height treeOne
+height treeTwo
+height treeThree
+
+--Part Five
+levelcount treeOne 0
+levelcount treeOne 1
+levelcount treeOne 2
+levelcount treeOne 3
+
+levelcount treeTwo 0
+levelcount treeTwo 1
+levelcount treeTwo 2
+levelcount treeTwo 3
+levelcount treeTwo 4
+
+levelcount treeThree 0
+levelcount treeThree 1
+levelcount treeThree 2
+levelcount treeThree 3
+levelcount treeThree 4
+levelcount treeThree 5
+levelcount treeThree 6
+
+--Part Six
+findNode treeOne "Zamzung SolarSystem"
+findNode treeOne "Zamzung SolarSystem.1"
+findNode treeOne "Zamzung SolarSystem.1.2"
+
+findNode treeTwo "Pear kOS.1"
+findNode treeTwo "Pear kOS.1.2.3"
+findNode treeTwo "Pear kOS.1.2.3.2"
+
+findNode treeThree "Suum.3.2.1.3.2"
+findNode treeThree "Suum.3.2.1.3"
+findNode treeThree "Suum.3.2"
+findNode treeThree "Suum.3.1"
