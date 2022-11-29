@@ -18,8 +18,11 @@ output yields a single numeric value for a given data sample. The network is tra
 error
 
 # Part3
-* In this part, performed an extensive hyperparameter (Grid Search) search for the MLP algorith by utilizing a validation dataset.
+In this part, performed an extensive hyperparameter (Grid Search) search for the MLP algorithm by utilizing a validation dataset.
+
 * This part asks implement an MLP training code for a classification task and prepare
 a report about the training setting, procedures you have considered, and the
 decisions made throughout the process as well as the results attained.
-
+* During parameter search, each hyperparameter configuration
+should be executed 10 times and their confidence interval scores for the accuracy metric should
+be reported
