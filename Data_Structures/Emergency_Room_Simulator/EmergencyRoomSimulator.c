@@ -1,8 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-//Name: Talal Shafei
-//Student ID: 2542371
-
 #include "queue.h"
 #include"Linked.h"
 #include<math.h>
