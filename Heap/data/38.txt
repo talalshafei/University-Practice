@@ -1,5 +1,0 @@
-38
-From: Carla
-To: John
-Date: 24
-Please remove the headers.

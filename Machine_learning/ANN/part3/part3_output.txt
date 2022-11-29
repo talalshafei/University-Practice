@@ -1,0 +1,504 @@
+Early stop on epoch 10
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 11
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 11
+Early stop on epoch 14
+Early stop on epoch 9
+Early stop on epoch 12
+
+For Hyper parameter configuration 1 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.001, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 84.886, Standard Deviation: 1.730, Confidence Interval: [84.287,85.485]
+
+Early stop on epoch 13
+Early stop on epoch 14
+Early stop on epoch 11
+Early stop on epoch 13
+Early stop on epoch 15
+Early stop on epoch 16
+Early stop on epoch 13
+Early stop on epoch 13
+Early stop on epoch 11
+Early stop on epoch 17
+
+For Hyper parameter configuration 2 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.001, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 85.906, Standard Deviation: 0.686, Confidence Interval: [85.669,86.144]
+
+Early stop on epoch 12
+Early stop on epoch 9
+Early stop on epoch 11
+Early stop on epoch 11
+Early stop on epoch 9
+Early stop on epoch 12
+Early stop on epoch 10
+Early stop on epoch 11
+Early stop on epoch 12
+Early stop on epoch 10
+
+For Hyper parameter configuration 3 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 84.564, Standard Deviation: 1.716, Confidence Interval: [83.969,85.158]
+
+Early stop on epoch 11
+Early stop on epoch 18
+Early stop on epoch 13
+Early stop on epoch 11
+Early stop on epoch 13
+Early stop on epoch 12
+Early stop on epoch 15
+Early stop on epoch 13
+Early stop on epoch 11
+Early stop on epoch 13
+
+For Hyper parameter configuration 4 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 86.157, Standard Deviation: 1.168, Confidence Interval: [85.753,86.562]
+
+Early stop on epoch 8
+Early stop on epoch 9
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 9
+Early stop on epoch 8
+Early stop on epoch 9
+Early stop on epoch 9
+Early stop on epoch 9
+Early stop on epoch 8
+
+For Hyper parameter configuration 5 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.005, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 79.551, Standard Deviation: 4.111, Confidence Interval: [78.126,80.975]
+
+Early stop on epoch 10
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 10
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 7
+
+For Hyper parameter configuration 6 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.005, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 82.665, Standard Deviation: 2.402, Confidence Interval: [81.833,83.497]
+
+Early stop on epoch 9
+Early stop on epoch 9
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 9
+Early stop on epoch 10
+Early stop on epoch 8
+Early stop on epoch 9
+
+For Hyper parameter configuration 7 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 80.542, Standard Deviation: 2.104, Confidence Interval: [79.813,81.271]
+
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 7
+Early stop on epoch 7
+Early stop on epoch 7
+Early stop on epoch 8
+
+For Hyper parameter configuration 8 out of 32: 
+Hidden layers 3, Neurons 128, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 82.674, Standard Deviation: 1.051, Confidence Interval: [82.310,83.038]
+
+Early stop on epoch 10
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 10
+Early stop on epoch 11
+Early stop on epoch 11
+Early stop on epoch 11
+Early stop on epoch 10
+Early stop on epoch 13
+Early stop on epoch 11
+
+For Hyper parameter configuration 9 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.001, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 85.839, Standard Deviation: 1.298, Confidence Interval: [85.390,86.289]
+
+Early stop on epoch 15
+Early stop on epoch 11
+Early stop on epoch 12
+Early stop on epoch 10
+Early stop on epoch 11
+Early stop on epoch 13
+Early stop on epoch 13
+Early stop on epoch 18
+Early stop on epoch 14
+Early stop on epoch 11
+
+For Hyper parameter configuration 10 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.001, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 86.676, Standard Deviation: 0.984, Confidence Interval: [86.335,87.017]
+
+Early stop on epoch 10
+Early stop on epoch 11
+Early stop on epoch 12
+Early stop on epoch 9
+Early stop on epoch 11
+Early stop on epoch 9
+Early stop on epoch 9
+Early stop on epoch 11
+Early stop on epoch 10
+Early stop on epoch 11
+
+For Hyper parameter configuration 11 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 85.340, Standard Deviation: 0.920, Confidence Interval: [85.022,85.659]
+
+Early stop on epoch 14
+Early stop on epoch 12
+Early stop on epoch 12
+Early stop on epoch 12
+Early stop on epoch 15
+Early stop on epoch 15
+Early stop on epoch 13
+Early stop on epoch 11
+Early stop on epoch 13
+Early stop on epoch 10
+
+For Hyper parameter configuration 12 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 86.819, Standard Deviation: 0.462, Confidence Interval: [86.659,86.979]
+
+Early stop on epoch 9
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 9
+Early stop on epoch 9
+Early stop on epoch 9
+Early stop on epoch 10
+
+For Hyper parameter configuration 13 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.005, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 84.838, Standard Deviation: 2.666, Confidence Interval: [83.914,85.762]
+
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 9
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 8
+
+For Hyper parameter configuration 14 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.005, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 84.047, Standard Deviation: 1.711, Confidence Interval: [83.454,84.639]
+
+Early stop on epoch 9
+Early stop on epoch 15
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 19
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+
+For Hyper parameter configuration 15 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 85.831, Standard Deviation: 1.835, Confidence Interval: [85.196,86.467]
+
+Early stop on epoch 9
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 8
+Early stop on epoch 7
+Early stop on epoch 8
+Early stop on epoch 8
+
+For Hyper parameter configuration 16 out of 32: 
+Hidden layers 3, Neurons 256, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 84.220, Standard Deviation: 1.600, Confidence Interval: [83.665,84.774]
+
+Early stop on epoch 18
+Early stop on epoch 23
+Early stop on epoch 24
+Early stop on epoch 19
+Early stop on epoch 18
+Early stop on epoch 22
+Early stop on epoch 21
+Early stop on epoch 15
+Early stop on epoch 24
+Early stop on epoch 21
+
+For Hyper parameter configuration 17 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.001, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 85.996, Standard Deviation: 1.615, Confidence Interval: [85.437,86.556]
+
+Early stop on epoch 37
+Early stop on epoch 47
+Early stop on epoch 44
+Early stop on epoch 52
+Early stop on epoch 35
+Early stop on epoch 48
+Early stop on epoch 43
+Early stop on epoch 37
+Early stop on epoch 51
+Early stop on epoch 44
+
+For Hyper parameter configuration 18 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.001, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 85.652, Standard Deviation: 0.875, Confidence Interval: [85.349,85.955]
+
+Early stop on epoch 22
+Early stop on epoch 16
+Early stop on epoch 22
+Early stop on epoch 20
+Early stop on epoch 15
+Early stop on epoch 20
+Early stop on epoch 19
+Early stop on epoch 21
+Early stop on epoch 24
+Early stop on epoch 27
+
+For Hyper parameter configuration 19 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 86.144, Standard Deviation: 1.855, Confidence Interval: [85.502,86.787]
+
+Early stop on epoch 45
+Early stop on epoch 46
+Early stop on epoch 37
+Early stop on epoch 41
+Early stop on epoch 33
+Early stop on epoch 34
+Early stop on epoch 41
+Early stop on epoch 40
+Early stop on epoch 44
+Early stop on epoch 38
+
+For Hyper parameter configuration 20 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 85.648, Standard Deviation: 1.809, Confidence Interval: [85.022,86.275]
+
+Early stop on epoch 11
+Early stop on epoch 9
+Early stop on epoch 13
+Early stop on epoch 12
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 10
+Early stop on epoch 14
+Early stop on epoch 10
+Early stop on epoch 10
+
+For Hyper parameter configuration 21 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.005, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 82.758, Standard Deviation: 1.490, Confidence Interval: [82.242,83.274]
+
+Early stop on epoch 14
+Early stop on epoch 12
+Early stop on epoch 16
+Early stop on epoch 14
+Early stop on epoch 12
+Early stop on epoch 22
+Early stop on epoch 13
+Early stop on epoch 19
+Early stop on epoch 23
+Early stop on epoch 16
+
+For Hyper parameter configuration 22 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.005, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 84.737, Standard Deviation: 1.742, Confidence Interval: [84.133,85.340]
+
+Early stop on epoch 10
+Early stop on epoch 11
+Early stop on epoch 10
+Early stop on epoch 11
+Early stop on epoch 10
+Early stop on epoch 12
+Early stop on epoch 10
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 10
+
+For Hyper parameter configuration 23 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 83.379, Standard Deviation: 1.861, Confidence Interval: [82.735,84.024]
+
+Early stop on epoch 22
+Early stop on epoch 17
+Early stop on epoch 10
+Early stop on epoch 11
+Early stop on epoch 17
+Early stop on epoch 13
+Early stop on epoch 15
+Early stop on epoch 14
+Early stop on epoch 13
+Early stop on epoch 16
+
+For Hyper parameter configuration 24 out of 32: 
+Hidden layers 7, Neurons 128, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 83.993, Standard Deviation: 2.098, Confidence Interval: [83.266,84.720]
+
+Early stop on epoch 21
+Early stop on epoch 18
+Early stop on epoch 18
+Early stop on epoch 16
+Early stop on epoch 16
+Early stop on epoch 20
+Early stop on epoch 17
+Early stop on epoch 17
+Early stop on epoch 16
+Early stop on epoch 16
+
+For Hyper parameter configuration 25 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.001, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 87.181, Standard Deviation: 1.003, Confidence Interval: [86.833,87.528]
+
+Early stop on epoch 35
+Early stop on epoch 28
+Early stop on epoch 32
+Early stop on epoch 40
+Early stop on epoch 37
+Early stop on epoch 27
+Early stop on epoch 26
+Early stop on epoch 34
+Early stop on epoch 29
+Early stop on epoch 34
+
+For Hyper parameter configuration 26 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.001, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 86.660, Standard Deviation: 1.010, Confidence Interval: [86.310,87.010]
+
+Early stop on epoch 17
+Early stop on epoch 19
+Early stop on epoch 17
+Early stop on epoch 13
+Early stop on epoch 20
+Early stop on epoch 22
+Early stop on epoch 19
+Early stop on epoch 20
+Early stop on epoch 15
+Early stop on epoch 14
+
+For Hyper parameter configuration 27 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 87.241, Standard Deviation: 1.214, Confidence Interval: [86.820,87.662]
+
+Early stop on epoch 43
+Early stop on epoch 36
+Early stop on epoch 34
+Early stop on epoch 30
+Early stop on epoch 29
+Early stop on epoch 31
+Early stop on epoch 31
+Early stop on epoch 36
+Early stop on epoch 35
+Early stop on epoch 35
+
+For Hyper parameter configuration 28 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.001, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 87.134, Standard Deviation: 1.647, Confidence Interval: [86.563,87.705]
+
+Early stop on epoch 10
+Early stop on epoch 10
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 11
+Early stop on epoch 11
+Early stop on epoch 10
+Early stop on epoch 8
+
+For Hyper parameter configuration 29 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.005, Relu Activation Function, Batch_size 108
+The Statistics are Mean: 84.472, Standard Deviation: 1.867, Confidence Interval: [83.825,85.119]
+
+Early stop on epoch 15
+Early stop on epoch 20
+Early stop on epoch 16
+Early stop on epoch 11
+Early stop on epoch 11
+Early stop on epoch 12
+Early stop on epoch 9
+Early stop on epoch 12
+Early stop on epoch 19
+Early stop on epoch 13
+
+For Hyper parameter configuration 30 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.005, Relu Activation Function, Batch_size 463
+The Statistics are Mean: 84.611, Standard Deviation: 2.731, Confidence Interval: [83.665,85.557]
+
+Early stop on epoch 9
+Early stop on epoch 9
+Early stop on epoch 11
+Early stop on epoch 9
+Early stop on epoch 10
+Early stop on epoch 9
+Early stop on epoch 8
+Early stop on epoch 10
+Early stop on epoch 12
+Early stop on epoch 9
+
+For Hyper parameter configuration 31 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 108
+The Statistics are Mean: 83.479, Standard Deviation: 1.725, Confidence Interval: [82.882,84.077]
+
+Early stop on epoch 10
+Early stop on epoch 14
+Early stop on epoch 9
+Early stop on epoch 15
+Early stop on epoch 14
+Early stop on epoch 15
+Early stop on epoch 12
+Early stop on epoch 13
+Early stop on epoch 13
+Early stop on epoch 15
+
+For Hyper parameter configuration 32 out of 32: 
+Hidden layers 7, Neurons 256, Learning Rate 0.005, Leaky Relu Activation Function, Batch_size 463
+The Statistics are Mean: 85.402, Standard Deviation: 2.760, Confidence Interval: [84.446,86.358]
+
+
+Best Hyperparameter combination:
+- Number of hidden Layers: 7
+- Number of Neurons: 256
+- Learning Rate: 0.001
+- Activation: Leaky Relu
+- Batch Size: 108
+
+Early stop on epoch 33
+Early stop on epoch 32
+Early stop on epoch 30
+Early stop on epoch 33
+Early stop on epoch 36
+Early stop on epoch 32
+Early stop on epoch 34
+Early stop on epoch 33
+Early stop on epoch 32
+Early stop on epoch 31
+
+The Statistics on the Test set:
+Mean: 94.290, Standard Deviation: 0.131, Confidence Interval: [94.244,94.336]
+
+CPU times: user 5h 51min 33s, sys: 4min 2s, total: 5h 55min 35s
+Wall time: 5h 55min 28s

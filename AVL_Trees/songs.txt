@@ -1,7 +1,0 @@
-Unutmamali;Pop;Aacayipsin;Tarkan;1994;22/10/2019 14:11
-Huzurum Kalmadi;Arabesque;Huzurum Kalmadi;Ferdi Tayfur;1976;22/12/2018 15:15
-Sorma Kalbim;Pop;Dudu;Tarkan;2003;3/6/2005 15:12
-Gemiler;Rock;O;Teoman;1998; 15/4/2002 08:30
-Gemiler2;Rock;O;Adam;1999; 15/4/2002 08:30
-Gemiler3;Rock;O;Adam;1929; 15/4/2002 08:30
-Gemiler4;Rock;O;Adam;1939; 15/4/2002 08:30
