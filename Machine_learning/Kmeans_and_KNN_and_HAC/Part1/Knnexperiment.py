@@ -1,7 +1,6 @@
 
 """
 Name: Talal Shafei
-ID: 2542371
 
 """
 import numpy as np
