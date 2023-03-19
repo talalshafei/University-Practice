@@ -1,0 +1,25 @@
+Configuration 1: C: 1, Kernel: poly
+Mean Accuracy: 88.000%
+Standard Deviation: 7.303
+Confidence Interval: [80.843, 95.157]
+
+Configuration 2: C: 1, Kernel: rbf
+Mean Accuracy: 92.267%
+Standard Deviation: 6.016
+Confidence Interval: [86.371, 98.163]
+
+Configuration 3: C: 5, Kernel: poly
+Mean Accuracy: 91.733%
+Standard Deviation: 6.333
+Confidence Interval: [85.527, 97.940]
+
+Configuration 4: C: 5, Kernel: rbf
+Mean Accuracy: 94.133%
+Standard Deviation: 5.439
+Confidence Interval: [88.803, 99.464]
+
+Best configuration corresponds to index 4
+Configuration 4: C: 5, Kernel: rbf
+Mean Accuracy: 94.133%
+Standard Deviation: 5.439
+Confidence Interval: [88.803, 99.464]

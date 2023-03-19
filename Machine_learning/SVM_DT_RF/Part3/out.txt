@@ -1,0 +1,186 @@
+Comparing Models on Accuracy: 
+
+
+Best Inner results for K-Nearest Neighbors based on accuracy metric:
+1: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.735, STD: 0.030, Confidence Interval [0.705,0.764]
+2: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.726, STD: 0.026, Confidence Interval [0.701,0.751]
+3: (('knn__metric', 'cosine'), ('knn__n_neighbors', 10)) -> Mean: 0.709, STD: 0.028, Confidence Interval [0.681,0.737]
+4: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 15)) -> Mean: 0.724, STD: 0.021, Confidence Interval [0.703,0.745]
+5: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.712, STD: 0.038, Confidence Interval [0.676,0.749]
+6: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 15)) -> Mean: 0.722, STD: 0.025, Confidence Interval [0.697,0.746]
+7: (('knn__metric', 'cosine'), ('knn__n_neighbors', 15)) -> Mean: 0.720, STD: 0.024, Confidence Interval [0.696,0.744]
+8: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.728, STD: 0.024, Confidence Interval [0.705,0.751]
+9: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.734, STD: 0.038, Confidence Interval [0.697,0.772]
+10: (('knn__metric', 'cosine'), ('knn__n_neighbors', 15)) -> Mean: 0.725, STD: 0.019, Confidence Interval [0.706,0.744]
+11: (('knn__metric', 'cosine'), ('knn__n_neighbors', 10)) -> Mean: 0.733, STD: 0.026, Confidence Interval [0.708,0.758]
+12: (('knn__metric', 'cosine'), ('knn__n_neighbors', 15)) -> Mean: 0.720, STD: 0.027, Confidence Interval [0.693,0.747]
+13: (('knn__metric', 'cosine'), ('knn__n_neighbors', 10)) -> Mean: 0.723, STD: 0.027, Confidence Interval [0.697,0.749]
+14: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.740, STD: 0.028, Confidence Interval [0.713,0.768]
+15: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 15)) -> Mean: 0.712, STD: 0.026, Confidence Interval [0.687,0.738]
+
+Best Inner results for Support Vector Machine based on accuracy metric:
+1: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.731, STD: 0.029, Confidence Interval [0.703,0.759]
+2: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.730, STD: 0.034, Confidence Interval [0.697,0.763]
+3: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.704, STD: 0.036, Confidence Interval [0.669,0.739]
+4: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.734, STD: 0.029, Confidence Interval [0.705,0.763]
+5: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.709, STD: 0.034, Confidence Interval [0.676,0.742]
+6: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.739, STD: 0.030, Confidence Interval [0.709,0.768]
+7: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.713, STD: 0.032, Confidence Interval [0.682,0.744]
+8: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.730, STD: 0.039, Confidence Interval [0.692,0.768]
+9: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.737, STD: 0.037, Confidence Interval [0.701,0.773]
+10: (('svc__C', 15), ('svc__kernel', 'rbf')) -> Mean: 0.737, STD: 0.035, Confidence Interval [0.703,0.771]
+11: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.721, STD: 0.026, Confidence Interval [0.696,0.746]
+12: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.708, STD: 0.044, Confidence Interval [0.665,0.751]
+13: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.724, STD: 0.036, Confidence Interval [0.689,0.759]
+14: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.744, STD: 0.027, Confidence Interval [0.718,0.770]
+15: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.713, STD: 0.037, Confidence Interval [0.677,0.749]
+
+Best Inner results for Decision Tree based on accuracy metric:
+1: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'entropy')) -> Mean: 0.721, STD: 0.034, Confidence Interval [0.688,0.754]
+2: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.699, STD: 0.005, Confidence Interval [0.695,0.704]
+3: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.696, STD: 0.014, Confidence Interval [0.682,0.710]
+4: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.721, STD: 0.021, Confidence Interval [0.700,0.742]
+5: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.700, STD: 0.001, Confidence Interval [0.699,0.701]
+6: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.705, STD: 0.044, Confidence Interval [0.662,0.749]
+7: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.713, STD: 0.041, Confidence Interval [0.673,0.753]
+8: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'gini')) -> Mean: 0.707, STD: 0.023, Confidence Interval [0.685,0.729]
+9: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'entropy')) -> Mean: 0.701, STD: 0.013, Confidence Interval [0.688,0.714]
+10: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.719, STD: 0.034, Confidence Interval [0.686,0.752]
+11: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.700, STD: 0.001, Confidence Interval [0.699,0.701]
+12: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.702, STD: 0.035, Confidence Interval [0.668,0.736]
+13: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.703, STD: 0.030, Confidence Interval [0.674,0.733]
+14: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'gini')) -> Mean: 0.715, STD: 0.024, Confidence Interval [0.691,0.738]
+15: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'gini')) -> Mean: 0.708, STD: 0.030, Confidence Interval [0.678,0.737]
+
+Best Inner results for Random Forests based on accuracy metric:
+1: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.765, STD: 0.027, Confidence Interval [0.755,0.776]
+2: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.745, STD: 0.022, Confidence Interval [0.736,0.753]
+3: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.750, STD: 0.022, Confidence Interval [0.741,0.758]
+4: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.765, STD: 0.025, Confidence Interval [0.755,0.775]
+5: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.735, STD: 0.027, Confidence Interval [0.724,0.746]
+6: (('n_estimators', 100), ('criterion', 'entropy')) -> Mean: 0.753, STD: 0.028, Confidence Interval [0.742,0.764]
+7: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.743, STD: 0.015, Confidence Interval [0.737,0.750]
+8: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.754, STD: 0.027, Confidence Interval [0.743,0.764]
+9: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.761, STD: 0.026, Confidence Interval [0.750,0.771]
+10: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.760, STD: 0.020, Confidence Interval [0.752,0.768]
+11: (('n_estimators', 100), ('criterion', 'entropy')) -> Mean: 0.751, STD: 0.021, Confidence Interval [0.742,0.759]
+12: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.747, STD: 0.027, Confidence Interval [0.737,0.758]
+13: (('n_estimators', 100), ('criterion', 'entropy')) -> Mean: 0.753, STD: 0.022, Confidence Interval [0.744,0.761]
+14: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.761, STD: 0.026, Confidence Interval [0.751,0.771]
+15: (('n_estimators', 100), ('criterion', 'entropy')) -> Mean: 0.742, STD: 0.022, Confidence Interval [0.733,0.751]
+
+Stats for K-Nearest Neighbors based on accuracy metric:
+Mean: 0.720, STD: 0.014
+And 95% confidence interval [0.713 ,0.727]
+
+Stats for Support Vector Machine based on accuracy metric:
+Mean: 0.741, STD: 0.025
+And 95% confidence interval [0.728 ,0.754]
+
+Stats for Decision Tree based on accuracy metric:
+Mean: 0.703, STD: 0.015
+And 95% confidence interval [0.695 ,0.710]
+
+Stats for Random Forests based on accuracy metric:
+Mean: 0.764, STD: 0.012
+And 95% confidence interval [0.757 ,0.770]
+
+
+Comparing Models on F1 Score:
+
+
+Best Inner results for K-Nearest Neighbors based on f1_micro metric:
+1: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.735, STD: 0.030, Confidence Interval [0.705,0.764]
+2: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.726, STD: 0.026, Confidence Interval [0.701,0.751]
+3: (('knn__metric', 'cosine'), ('knn__n_neighbors', 10)) -> Mean: 0.709, STD: 0.028, Confidence Interval [0.681,0.737]
+4: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 15)) -> Mean: 0.724, STD: 0.021, Confidence Interval [0.703,0.745]
+5: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.712, STD: 0.038, Confidence Interval [0.676,0.749]
+6: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 15)) -> Mean: 0.722, STD: 0.025, Confidence Interval [0.697,0.746]
+7: (('knn__metric', 'cosine'), ('knn__n_neighbors', 15)) -> Mean: 0.720, STD: 0.024, Confidence Interval [0.696,0.744]
+8: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.728, STD: 0.024, Confidence Interval [0.705,0.751]
+9: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.734, STD: 0.038, Confidence Interval [0.697,0.772]
+10: (('knn__metric', 'cosine'), ('knn__n_neighbors', 15)) -> Mean: 0.725, STD: 0.019, Confidence Interval [0.706,0.744]
+11: (('knn__metric', 'cosine'), ('knn__n_neighbors', 10)) -> Mean: 0.733, STD: 0.026, Confidence Interval [0.708,0.758]
+12: (('knn__metric', 'cosine'), ('knn__n_neighbors', 15)) -> Mean: 0.720, STD: 0.027, Confidence Interval [0.693,0.747]
+13: (('knn__metric', 'cosine'), ('knn__n_neighbors', 10)) -> Mean: 0.723, STD: 0.027, Confidence Interval [0.697,0.749]
+14: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 10)) -> Mean: 0.740, STD: 0.028, Confidence Interval [0.713,0.768]
+15: (('knn__metric', 'manhattan'), ('knn__n_neighbors', 15)) -> Mean: 0.712, STD: 0.026, Confidence Interval [0.687,0.738]
+
+Best Inner results for Support Vector Machine based on f1_micro metric:
+1: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.731, STD: 0.029, Confidence Interval [0.703,0.759]
+2: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.730, STD: 0.034, Confidence Interval [0.697,0.763]
+3: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.704, STD: 0.036, Confidence Interval [0.669,0.739]
+4: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.734, STD: 0.029, Confidence Interval [0.705,0.763]
+5: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.709, STD: 0.034, Confidence Interval [0.676,0.742]
+6: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.739, STD: 0.030, Confidence Interval [0.709,0.768]
+7: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.713, STD: 0.032, Confidence Interval [0.682,0.744]
+8: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.730, STD: 0.039, Confidence Interval [0.692,0.768]
+9: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.737, STD: 0.037, Confidence Interval [0.701,0.773]
+10: (('svc__C', 15), ('svc__kernel', 'rbf')) -> Mean: 0.737, STD: 0.035, Confidence Interval [0.703,0.771]
+11: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.721, STD: 0.026, Confidence Interval [0.696,0.746]
+12: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.708, STD: 0.044, Confidence Interval [0.665,0.751]
+13: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.724, STD: 0.036, Confidence Interval [0.689,0.759]
+14: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.744, STD: 0.027, Confidence Interval [0.718,0.770]
+15: (('svc__C', 10), ('svc__kernel', 'rbf')) -> Mean: 0.713, STD: 0.037, Confidence Interval [0.677,0.749]
+
+Best Inner results for Decision Tree based on f1_micro metric:
+1: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'entropy')) -> Mean: 0.721, STD: 0.034, Confidence Interval [0.688,0.754]
+2: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.699, STD: 0.005, Confidence Interval [0.695,0.704]
+3: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.696, STD: 0.014, Confidence Interval [0.682,0.710]
+4: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.719, STD: 0.023, Confidence Interval [0.696,0.741]
+5: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.700, STD: 0.001, Confidence Interval [0.699,0.701]
+6: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.705, STD: 0.041, Confidence Interval [0.665,0.746]
+7: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.714, STD: 0.037, Confidence Interval [0.678,0.749]
+8: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'gini')) -> Mean: 0.707, STD: 0.023, Confidence Interval [0.685,0.729]
+9: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'entropy')) -> Mean: 0.701, STD: 0.013, Confidence Interval [0.688,0.714]
+10: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.719, STD: 0.034, Confidence Interval [0.686,0.752]
+11: (('dtc__ccp_alpha', 0.02), ('dtc__criterion', 'gini')) -> Mean: 0.700, STD: 0.001, Confidence Interval [0.699,0.701]
+12: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.700, STD: 0.035, Confidence Interval [0.666,0.734]
+13: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'entropy')) -> Mean: 0.702, STD: 0.033, Confidence Interval [0.669,0.734]
+14: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'gini')) -> Mean: 0.715, STD: 0.024, Confidence Interval [0.691,0.738]
+15: (('dtc__ccp_alpha', 0.01), ('dtc__criterion', 'gini')) -> Mean: 0.708, STD: 0.030, Confidence Interval [0.678,0.737]
+
+Best Inner results for Random Forests based on f1_micro metric:
+1: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.766, STD: 0.028, Confidence Interval [0.755,0.777]
+2: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.744, STD: 0.020, Confidence Interval [0.736,0.752]
+3: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.748, STD: 0.025, Confidence Interval [0.738,0.758]
+4: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.764, STD: 0.024, Confidence Interval [0.754,0.773]
+5: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.735, STD: 0.029, Confidence Interval [0.724,0.746]
+6: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.754, STD: 0.030, Confidence Interval [0.742,0.765]
+7: (('n_estimators', 100), ('criterion', 'entropy')) -> Mean: 0.743, STD: 0.014, Confidence Interval [0.738,0.749]
+8: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.752, STD: 0.023, Confidence Interval [0.743,0.761]
+9: (('n_estimators', 100), ('criterion', 'gini')) -> Mean: 0.760, STD: 0.027, Confidence Interval [0.749,0.770]
+10: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.761, STD: 0.021, Confidence Interval [0.753,0.770]
+11: (('n_estimators', 100), ('criterion', 'entropy')) -> Mean: 0.750, STD: 0.021, Confidence Interval [0.742,0.759]
+12: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.748, STD: 0.026, Confidence Interval [0.738,0.759]
+13: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.755, STD: 0.021, Confidence Interval [0.746,0.763]
+14: (('n_estimators', 150), ('criterion', 'entropy')) -> Mean: 0.763, STD: 0.027, Confidence Interval [0.753,0.774]
+15: (('n_estimators', 150), ('criterion', 'gini')) -> Mean: 0.743, STD: 0.024, Confidence Interval [0.734,0.752]
+
+Stats for K-Nearest Neighbors based on f1_micro metric:
+Mean: 0.720, STD: 0.014
+And 95% confidence interval [0.713 ,0.727]
+
+Stats for Support Vector Machine based on f1_micro metric:
+Mean: 0.741, STD: 0.025
+And 95% confidence interval [0.728 ,0.754]
+
+Stats for Decision Tree based on f1_micro metric:
+Mean: 0.703, STD: 0.015
+And 95% confidence interval [0.695 ,0.710]
+
+Stats for Random Forests based on f1_micro metric:
+Mean: 0.762, STD: 0.011
+And 95% confidence interval [0.757 ,0.768]
+
+
+CPU times: user 2h 7min 51s, sys: 1min 3s, total: 2h 8min 55s
+Wall time: 2h 8min 34s
+
+
+
+
+
+
+
+

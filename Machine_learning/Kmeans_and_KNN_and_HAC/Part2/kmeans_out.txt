@@ -1,0 +1,188 @@
+old random
+for i in range(self.K):
+            # since the min and max value for the dataset in the range
+            # -0.55 to 1 we can use np.random.uniform()
+            self.cluster_centers[i] = np.random.uniform(
+                -0.55, 1, self.dataset.shape[1])
+
+Kmeans:
+
+For Dataset 1:
+********************************************************************************
+For K = 2:
+Mean Loss equals 374.129 with 95% Confidence Interval [ 374.129, 374.129 ]
+For K = 3:
+Mean Loss equals 233.527 with 95% Confidence Interval [ 233.527, 233.527 ]
+For K = 4:
+Mean Loss equals 156.319 with 95% Confidence Interval [ 156.319, 156.319 ]
+For K = 5:
+Mean Loss equals 92.662 with 95% Confidence Interval [ 92.662, 92.662 ]
+For K = 6:
+Mean Loss equals 88.697 with 95% Confidence Interval [ 88.661, 88.732 ]
+For K = 7:
+Mean Loss equals 84.945 with 95% Confidence Interval [ 84.818, 85.071 ]
+For K = 8:
+Mean Loss equals 81.263 with 95% Confidence Interval [ 81.175, 81.351 ]
+For K = 9:
+Mean Loss equals 77.846 with 95% Confidence Interval [ 77.573, 78.119 ]
+For K = 10:
+Mean Loss equals 74.745 with 95% Confidence Interval [ 74.558, 74.933 ]
+
+For Dataset 2:
+********************************************************************************
+For K = 2:
+Mean Loss equals 310.792 with 95% Confidence Interval [ 310.792, 310.792 ]
+For K = 3:
+Mean Loss equals 187.601 with 95% Confidence Interval [ 187.601, 187.601 ]
+For K = 4:
+Mean Loss equals 130.708 with 95% Confidence Interval [ 130.708, 130.708 ]
+For K = 5:
+Mean Loss equals 127.894 with 95% Confidence Interval [ 127.862, 127.927 ]
+For K = 6:
+Mean Loss equals 125.264 with 95% Confidence Interval [ 125.186, 125.343 ]
+For K = 7:
+Mean Loss equals 122.579 with 95% Confidence Interval [ 122.474, 122.683 ]
+For K = 8:
+Mean Loss equals 120.292 with 95% Confidence Interval [ 120.118, 120.466 ]
+For K = 9:
+Mean Loss equals 118.274 with 95% Confidence Interval [ 118.025, 118.523 ]
+For K = 10:
+Mean Loss equals 116.324 with 95% Confidence Interval [ 116.180, 116.467 ]
+
+Kmeans++:
+For Dataset 1:
+********************************************************************************
+For K = 2:
+Mean Loss equals 374.129 with 95% Confidence Interval [ 374.129, 374.129 ]
+For K = 3:
+Mean Loss equals 233.527 with 95% Confidence Interval [ 233.527, 233.527 ]
+For K = 4:
+Mean Loss equals 156.319 with 95% Confidence Interval [ 156.319, 156.319 ]
+For K = 5:
+Mean Loss equals 92.662 with 95% Confidence Interval [ 92.662, 92.662 ]
+For K = 6:
+Mean Loss equals 88.662 with 95% Confidence Interval [ 88.629, 88.695 ]
+For K = 7:
+Mean Loss equals 84.867 with 95% Confidence Interval [ 84.796, 84.937 ]
+For K = 8:
+Mean Loss equals 81.164 with 95% Confidence Interval [ 81.090, 81.239 ]
+For K = 9:
+Mean Loss equals 77.506 with 95% Confidence Interval [ 77.383, 77.629 ]
+For K = 10:
+Mean Loss equals 74.407 with 95% Confidence Interval [ 74.224, 74.589 ]
+
+For Dataset 2:
+********************************************************************************
+For K = 2:
+Mean Loss equals 310.792 with 95% Confidence Interval [ 310.792, 310.792 ]
+For K = 3:
+Mean Loss equals 187.601 with 95% Confidence Interval [ 187.601, 187.601 ]
+For K = 4:
+Mean Loss equals 130.708 with 95% Confidence Interval [ 130.708, 130.708 ]
+For K = 5:
+Mean Loss equals 127.863 with 95% Confidence Interval [ 127.845, 127.881 ]
+For K = 6:
+Mean Loss equals 125.132 with 95% Confidence Interval [ 125.091, 125.173 ]
+For K = 7:
+Mean Loss equals 122.581 with 95% Confidence Interval [ 122.486, 122.675 ]
+For K = 8:
+Mean Loss equals 120.073 with 95% Confidence Interval [ 119.957, 120.189 ]
+For K = 9:
+Mean Loss equals 117.853 with 95% Confidence Interval [ 117.773, 117.934 ]
+For K = 10:
+Mean Loss equals 116.153 with 95% Confidence Interval [ 116.053, 116.252 ]
+
+
+
+
+#######################correct##############################
+
+Kmeans:
+
+For Dataset 1:
+********************************************************************************
+For K = 2:
+Mean Loss equals 157.994 with 95% Confidence Interval [ 157.994, 157.994 ]
+For K = 3:
+Mean Loss equals 73.475 with 95% Confidence Interval [ 73.475, 73.475 ]
+For K = 4:
+Mean Loss equals 33.956 with 95% Confidence Interval [ 33.956, 33.956 ]
+For K = 5:
+Mean Loss equals 10.893 with 95% Confidence Interval [ 10.893, 10.893 ]
+For K = 6:
+Mean Loss equals 10.041 with 95% Confidence Interval [ 9.993, 10.088 ]
+For K = 7:
+Mean Loss equals 9.262 with 95% Confidence Interval [ 9.254, 9.270 ]
+For K = 8:
+Mean Loss equals 8.584 with 95% Confidence Interval [ 8.531, 8.636 ]
+For K = 9:
+Mean Loss equals 7.885 with 95% Confidence Interval [ 7.829, 7.941 ]
+For K = 10:
+Mean Loss equals 7.278 with 95% Confidence Interval [ 7.231, 7.325 ]
+
+For Dataset 2:
+********************************************************************************
+For K = 2:
+Mean Loss equals 130.692 with 95% Confidence Interval [ 130.692, 130.692 ]
+For K = 3:
+Mean Loss equals 51.026 with 95% Confidence Interval [ 51.026, 51.026 ]
+For K = 4:
+Mean Loss equals 23.652 with 95% Confidence Interval [ 23.652, 23.652 ]
+For K = 5:
+Mean Loss equals 22.702 with 95% Confidence Interval [ 22.696, 22.708 ]
+For K = 6:
+Mean Loss equals 21.799 with 95% Confidence Interval [ 21.774, 21.824 ]
+For K = 7:
+Mean Loss equals 21.002 with 95% Confidence Interval [ 20.947, 21.058 ]
+For K = 8:
+Mean Loss equals 20.262 with 95% Confidence Interval [ 20.200, 20.324 ]
+For K = 9:
+Mean Loss equals 19.495 with 95% Confidence Interval [ 19.466, 19.524 ]
+For K = 10:
+Mean Loss equals 18.915 with 95% Confidence Interval [ 18.865, 18.965 ]
+########################################################################
+
+Kmeans++:
+
+For Dataset 1:
+********************************************************************************
+For K = 2:
+Mean Loss equals 157.994 with 95% Confidence Interval [ 157.994, 157.994 ]
+For K = 3:
+Mean Loss equals 73.475 with 95% Confidence Interval [ 73.475, 73.475 ]
+For K = 4:
+Mean Loss equals 33.956 with 95% Confidence Interval [ 33.956, 33.956 ]
+For K = 5:
+Mean Loss equals 10.893 with 95% Confidence Interval [ 10.893, 10.893 ]
+For K = 6:
+Mean Loss equals 9.991 with 95% Confidence Interval [ 9.990, 9.991 ]
+For K = 7:
+Mean Loss equals 9.262 with 95% Confidence Interval [ 9.253, 9.271 ]
+For K = 8:
+Mean Loss equals 8.542 with 95% Confidence Interval [ 8.525, 8.559 ]
+For K = 9:
+Mean Loss equals 7.823 with 95% Confidence Interval [ 7.796, 7.849 ]
+For K = 10:
+Mean Loss equals 7.169 with 95% Confidence Interval [ 7.118, 7.221 ]
+
+For Dataset 2:
+********************************************************************************
+For K = 2:
+Mean Loss equals 130.692 with 95% Confidence Interval [ 130.692, 130.692 ]
+For K = 3:
+Mean Loss equals 51.026 with 95% Confidence Interval [ 51.026, 51.026 ]
+For K = 4:
+Mean Loss equals 23.652 with 95% Confidence Interval [ 23.652, 23.652 ]
+For K = 5:
+Mean Loss equals 22.703 with 95% Confidence Interval [ 22.695, 22.710 ]
+For K = 6:
+Mean Loss equals 21.807 with 95% Confidence Interval [ 21.792, 21.822 ]
+For K = 7:
+Mean Loss equals 20.906 with 95% Confidence Interval [ 20.883, 20.929 ]
+For K = 8:
+Mean Loss equals 20.113 with 95% Confidence Interval [ 20.035, 20.191 ]
+For K = 9:
+Mean Loss equals 19.466 with 95% Confidence Interval [ 19.422, 19.511 ]
+For K = 10:
+Mean Loss equals 18.842 with 95% Confidence Interval [ 18.788, 18.897 ]
+

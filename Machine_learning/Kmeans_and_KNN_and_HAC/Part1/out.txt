@@ -1,0 +1,49 @@
+
+For hyperparameter configuration 1:
+Distance Function: Cosine, K value: 5
+Accuracy: 93.867, with 95% Confidence Interval [93.429, 94.304]
+
+
+For hyperparameter configuration 2:
+Distance Function: Cosine, K value: 10
+Accuracy: 94.533, with 95% Confidence Interval [93.961, 95.106]
+
+
+For hyperparameter configuration 3:
+Distance Function: Cosine, K value: 30
+Accuracy: 94.400, with 95% Confidence Interval [94.114, 94.686]
+
+
+For hyperparameter configuration 4:
+Distance Function: Minkowski, K value: 5
+Accuracy: 94.933, with 95% Confidence Interval [94.647, 95.220]
+
+
+For hyperparameter configuration 5:
+Distance Function: Minkowski, K value: 10
+Accuracy: 95.067, with 95% Confidence Interval [94.599, 95.534]
+
+
+For hyperparameter configuration 6:
+Distance Function: Minkowski, K value: 30
+Accuracy: 93.467, with 95% Confidence Interval [93.029, 93.904]
+
+
+For hyperparameter configuration 7:
+Distance Function: Mahalanobis, K value: 5
+Accuracy: 90.400, with 95% Confidence Interval [89.607, 91.193]
+
+
+For hyperparameter configuration 8:
+Distance Function: Mahalanobis, K value: 10
+Accuracy: 88.667, with 95% Confidence Interval [87.621, 89.712]
+
+
+For hyperparameter configuration 9:
+Distance Function: Mahalanobis, K value: 30
+Accuracy: 82.933, with 95% Confidence Interval [82.647, 83.220]
+
+
+Best Hyperparameter corresponds to the hyperparameter combination 5:
+Distance finction: Minkowski, and K value: 10
+With Mean accuracy: 95.067, and 95% Confidence interval [94.599, 95.534]

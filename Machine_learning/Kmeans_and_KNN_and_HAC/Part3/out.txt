@@ -1,0 +1,57 @@
+Plotting Dendrograms
+********************************************************************************
+
+Silhoette Analysis
+********************************************************************************
+
+For 2 clusters with single linkage and euclidean distance metric
+Average Silhouette Score: 0.6881
+
+For 3 clusters with single linkage and euclidean distance metric
+Average Silhouette Score: 0.5313
+
+For 4 clusters with single linkage and euclidean distance metric
+Average Silhouette Score: 0.3944
+
+For 5 clusters with single linkage and euclidean distance metric
+Average Silhouette Score: 0.3122
+
+For 2 clusters with single linkage and cosine distance metric
+Average Silhouette Score: 0.9625
+
+For 3 clusters with single linkage and cosine distance metric
+Average Silhouette Score: 0.8747
+
+For 4 clusters with single linkage and cosine distance metric
+Average Silhouette Score: 0.5786
+
+For 5 clusters with single linkage and cosine distance metric
+Average Silhouette Score: 0.4871
+
+For 2 clusters with complete linkage and euclidean distance metric
+Average Silhouette Score: 0.5023
+
+For 3 clusters with complete linkage and euclidean distance metric
+Average Silhouette Score: 0.5191
+
+For 4 clusters with complete linkage and euclidean distance metric
+Average Silhouette Score: 0.5199
+
+For 5 clusters with complete linkage and euclidean distance metric
+Average Silhouette Score: 0.3702
+
+For 2 clusters with complete linkage and cosine distance metric
+Average Silhouette Score: 0.9625
+
+For 3 clusters with complete linkage and cosine distance metric
+Average Silhouette Score: 0.6597
+
+For 4 clusters with complete linkage and cosine distance metric
+Average Silhouette Score: 0.4913
+
+For 5 clusters with complete linkage and cosine distance metric
+Average Silhouette Score: 0.4088
+
+Highest Silhoette value: 0.9625445604324341
+The Best Hyperparameter Configuration Based on Average Silhoutte score:
+is the 5th configuration, with 2 Clusters single Linkage and cosine Distance
