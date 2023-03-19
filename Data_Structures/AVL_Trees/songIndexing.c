@@ -1,5 +1,3 @@
-//Name: Talal Shafei
-//ID:2542371
 
 #include"avltree.h"
 #include"avltree.c"
