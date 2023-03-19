@@ -1,6 +1,5 @@
 """
 Name: Talal Shafei
-ID: 2542371
 
 I tried to make the code independent of the machine learning algorithms
 asked to compare in the assignment, so with little modifications I can re-use
