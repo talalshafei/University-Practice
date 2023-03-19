@@ -1,6 +1,5 @@
 """
 Name: Talal Shafei
-ID: 2542371
 """
 
 import pickle
