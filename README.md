@@ -1,4 +1,4 @@
-# Practice
-This repo contains some assignments solutions and extra prcatice material.
+# Universitry & Practice
+This repo contains some assignments solutions and extra practice material.
 
 
